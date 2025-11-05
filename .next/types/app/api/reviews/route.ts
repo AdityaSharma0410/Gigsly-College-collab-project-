@@ -1,4 +1,4 @@
-// File: D:\Hakai Project\11\src\app\api\reviews\route.ts
+// File: D:\Gigsly\Gigsly-College-collab-project-\src\app\api\reviews\route.ts
 import * as entry from '../../../../../src/app/api/reviews/route.js'
 import type { NextRequest } from 'next/server.js'
 
