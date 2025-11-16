@@ -28,9 +28,9 @@ export default function Footer() {
       {/* Enhanced Contact Info */}
       <div className="flex flex-col items-start gap-3 bg-white/5 rounded-xl px-6 py-4 border border-white/10 shadow-sm backdrop-blur-md relative z-10 hover:bg-white/10 transition-all duration-300 group">
         <span className="text-white/90 font-semibold mb-1 group-hover:text-white transition-colors duration-300">Contact us:</span>
-        <a href="mailto:help@giglsy.com" className="flex items-center gap-2 text-white/80 hover:text-blue-300 transition-all duration-300 hover:translate-x-1 group/link">
+        <a href="mailto:help@gigsly.com" className="flex items-center gap-2 text-white/80 hover:text-blue-300 transition-all duration-300 hover:translate-x-1 group/link">
           <Mail className="w-5 h-5 group-hover/link:scale-110 transition-transform duration-300" />
-          <span>help@giglsy.com</span>
+          <span>help@gigsly.com</span>
         </a>
         <a href="tel:+911234567890" className="flex items-center gap-2 text-white/80 hover:text-blue-300 transition-all duration-300 hover:translate-x-1 group/link">
           <Phone className="w-5 h-5 group-hover/link:scale-110 transition-transform duration-300" />
